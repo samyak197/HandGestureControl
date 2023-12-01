@@ -1,0 +1,4 @@
+mediapipe==<version>
+opencv-python==<version>
+pycaw==<version>
+screen-brightness-control==<version>
